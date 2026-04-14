@@ -64,15 +64,6 @@ I build with precision — from low-level systems to distributed cloud-native se
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chhipor&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhipor&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="150" />
-</p>
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sreng-chipor-a31346239)
