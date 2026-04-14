@@ -5,16 +5,6 @@ I build with precision — from low-level systems to distributed cloud-native se
 
 ---
 
-## 🧠 About Me
-
-- 🏗️ Passionate about **clean code**, **system design**, and **infrastructure as craft**
-- ⚙️ Strong believer in automation — if it runs twice, it should be scripted
-- 🔍 Detail-oriented: naming matters, structure matters, consistency matters
-- 🌐 Experienced across the full stack, with a strong lean toward **backend and infra**
-- 📦 Advocate for containerized, reproducible, environment-agnostic deployments
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
